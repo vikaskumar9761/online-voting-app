@@ -1,0 +1,125 @@
+{
+  "project_info": {
+    "project_number": "903361753014",
+    "firebase_url": "https://people-731e5-default-rtdb.firebaseio.com",
+    "project_id": "people-731e5",
+    "storage_bucket": "people-731e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903361753014:android:77f0a26ef53640a470db17",
+        "android_client_info": {
+          "package_name": "com.example.online_voting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3G5Sp_kCVkGL79JO-_oPWkC2c_EswmSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903361753014:android:6389a7dedc2b2c1570db17",
+        "android_client_info": {
+          "package_name": "com.example.people"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3G5Sp_kCVkGL79JO-_oPWkC2c_EswmSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903361753014:android:1c02011ff0d016fb70db17",
+        "android_client_info": {
+          "package_name": "com.example.register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3G5Sp_kCVkGL79JO-_oPWkC2c_EswmSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903361753014:android:a2226a548d3669f870db17",
+        "android_client_info": {
+          "package_name": "com.example.voting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3G5Sp_kCVkGL79JO-_oPWkC2c_EswmSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903361753014:android:3d0437dec1d4cb6e70db17",
+        "android_client_info": {
+          "package_name": "com.example.voting_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3G5Sp_kCVkGL79JO-_oPWkC2c_EswmSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903361753014:android:786c1564df82c42d70db17",
+        "android_client_info": {
+          "package_name": "com.justpe.registrationform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3G5Sp_kCVkGL79JO-_oPWkC2c_EswmSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
